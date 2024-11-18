@@ -15,7 +15,12 @@ This is a minimal working example integrating `gym-pybullet-drones` with
 reinforcement learning library `stable-baselines3`.
 
 """
+<<<<<<< HEAD
 # TEST
+=======
+#Test
+
+>>>>>>> a5f635ea755160da97586d47396403cb43ba0bea
 import os
 import time
 from datetime import datetime
